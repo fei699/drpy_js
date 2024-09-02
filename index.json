@@ -82,6 +82,17 @@
 			"ext": "./drpy_js/哔哩影视[官].js"
 		},
 		{
+			"key": "hipy_js_金牌影院",
+			"name": "金牌影院(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/金牌影院.js"
+		},
+		{
 			"key": "hipy_js_4k剧院",
 			"name": "4k剧院(drpy_t3)",
 			"type": 3,
